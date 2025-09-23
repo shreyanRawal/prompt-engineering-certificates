@@ -13,4 +13,10 @@ Course: Advanced Prompt Engineering with ChatGPT ||
 Provider: upGrad ||
 Certificate: (UpGrad Advanced Prompt Engineering Certificate.pdf) ||
 |||
+|||
+Course: Introduction to Generative AI ||
+Provider: Google ||
+Certificate: (Introduction to Generative AI badge.png, screenshot of badge) ||
+|||
+
 Each course helped me expand my understanding of LLMs, prompt techniques, and practical AI applications.
