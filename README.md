@@ -20,7 +20,7 @@ Certificate: (Introduction to Generative AI badge.png, screenshot of badge) ||
 |||
 Course: Finetuning Large Language Models ||
 Provider: Deeplearning.ai ||
-Certificate: (Finetuning Large Language Models by deeplearning.ai.png) ||
+Certificate: (Finetuning Large Language Models by deeplearning.ai.png, Link: https://learn.deeplearning.ai/accomplishments/6edbc49c-77ef-4d60-af46-8bb20a51e573?usp=sharing) ||
 |||
 
 Each course helped me expand my understanding of LLMs, prompt techniques, and practical AI applications.
