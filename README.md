@@ -18,5 +18,9 @@ Course: Introduction to Generative AI ||
 Provider: Google ||
 Certificate: (Introduction to Generative AI badge.png, screenshot of badge) ||
 |||
+Course: Finetuning Large Language Models ||
+Provider: Deeplearning.ai ||
+Certificate: (Finetuning Large Language Models by deeplearning.ai.png) ||
+|||
 
 Each course helped me expand my understanding of LLMs, prompt techniques, and practical AI applications.
