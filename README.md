@@ -1,5 +1,5 @@
-# prompt-engineering-certificates
-A collection of my certifications in Prompt Engineering and AI
+# artificcial intelligence certificates
+A collection of my certifications in AI
 
 
 
